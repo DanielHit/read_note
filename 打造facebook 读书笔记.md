@@ -140,12 +140,15 @@ Facebook，工程师被当作公司发展的驱动力，在产品开发过程中
 PS: 这点和我的想法还是比较接近的
 
 ---
-
 提到的一些书单:
 1. Startup for You
+
 2. Lean Startup
+
 3. Cross the Chasm
+
 4. Facebook Effect
+
 
 
 
